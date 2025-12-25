@@ -5,7 +5,7 @@ const books = [
     "author": "ഡിസി ബുക്കുകൾ",
     "stockNumber": 1,
     "price": 150.0,
-    "image": "D:\\EKNM Site\\books\\mooladhanam.png",
+    "image": "https://github.com/Akashvpkr40/Eknm/blob/main/books/mooladhanam.png",
     "stock": "In Stock"
   },
   {
@@ -32,7 +32,7 @@ const books = [
     "author": "എച്ച്&സി പബ്ലിഷിംഗ്",
     "stockNumber": 4,
     "price": 25.0,
-    "image": "D:\\EKNM Site\\books\\kalappa.jpg",
+    "image": "https://github.com/Akashvpkr40/Eknm/blob/main/books/kalappa.jpg",
     "stock": "In Stock"
   },
   {
@@ -86,7 +86,7 @@ const books = [
     "author": "ഡിസി ബുക്സ്",
     "stockNumber": 10,
     "price": 80.0,
-    "image": "D:\\EKNM Site\\books\\chidambara smarana.jpeg",
+    "image": "https://github.com/Akashvpkr40/Eknm/blob/main/books/chidambara%20smarana.jpeg",
     "stock": "In Stock"
   },
   {
@@ -212,7 +212,7 @@ const books = [
     "author": "ഡിസി ബുക്കുകൾ",
     "stockNumber": 24,
     "price": 150.0,
-    "image": "D:\\EKNM Site\\books\\mooladhanam.png",
+    "image": "https://github.com/Akashvpkr40/Eknm/blob/main/books/mooladhanam.png",
     "stock": "In Stock"
   },
   {
@@ -19322,4 +19322,5 @@ const books = [
     "image": "books/2161.jpg",
     "stock": "In Stock"
   }
+
 ];
