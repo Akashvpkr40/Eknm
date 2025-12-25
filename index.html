@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>:
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Malayalam&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <title>My Book Collection</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>ഇ കെ നായനാർ സ്മാരക വായനശാല & ഗ്രന്ഥാലയം </h1>
+
+<input
+  type="text"
+  id="searchInput"
+  placeholder="Search by book name or author..."
+>
+
+<button id="searchBtn">Search</button>
+
+
+<div class="filters">
+  <button class="filter-btn active" data-stock="All">All</button>
+  <button class="filter-btn" data-stock="In Stock">In Stock</button>
+  <button class="filter-btn" data-stock="Out of Stock">Out of Stock</button>
+</div>
+
+<div id="book-list"></div>
+ 
+  <button id="scrollToTopBtn" class="scroll-to-top" aria-label="Scroll to top" title="Back to top">↑</button>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
