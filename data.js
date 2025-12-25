@@ -86,7 +86,7 @@ const books = [
     "author": "ഡിസി ബുക്സ്",
     "stockNumber": 10,
     "price": 80.0,
-    "image": "https://github.com/Akashvpkr40/Eknm/blob/main/books/chidambara%20smarana.jpeg",
+    "image": "books/chidambara smarana.jpeg",
     "stock": "In Stock"
   },
   {
@@ -19324,3 +19324,4 @@ const books = [
   }
 
 ];
+
